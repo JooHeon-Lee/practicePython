@@ -11,9 +11,9 @@ client = Client(account_sid, auth_token)
 
 message = client.messages \
     .create(
-         from_='+18575765221', #발신번호
+         from_='+', #발신번호
          body='TEST', #내용
-         to='+821031636589'#받는사람 번호
+         to='+'#받는사람 번호
      )
 
 print(message.sid)
