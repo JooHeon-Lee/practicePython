@@ -10,3 +10,6 @@ You should consider upgrading via the 'c:\users\user\appdata\local\programs\pyth
 3-1. python -m pip install --upgrade pip 
 3-2. 문제해결!
 ++ pip install --upgrade 패키지명   으로 해당패키지도 업그레이드를 할수있다.!
+==========08-06========
+파이썬 내장함수 참고
+list of python builtins 검색 후 확인
