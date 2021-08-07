@@ -13,3 +13,6 @@ You should consider upgrading via the 'c:\users\user\appdata\local\programs\pyth
 ==========08-06========
 파이썬 내장함수 참고
 list of python builtins 검색 후 확인
+===========08-07========
+외장함수는 import해서 사용
+list of python modules 검색
